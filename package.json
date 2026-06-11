@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "World Cup score prediction app for friend organizations.",
   "private": true,
+  "engines": {
+    "node": ">=22.0.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
